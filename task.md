@@ -44,10 +44,11 @@ Das genaue Verfahren ist grob wie folgt:
    einen Sieg erzwingen kann.
 
 Als Ergebnis soll ein Programm erstellt werden, das die folgenden Endspiel-Situationen beherrscht:
-1. König und Turm gegen König
-2. König und zwei Läufer gegen König
-3. König, Läufer und Springer gegen König
-4. König und Bauer gegen König.
+1. König und Dame gegen König
+2. König und Turm gegen König
+3. König und zwei Läufer gegen König
+4. König, Läufer und Springer gegen König
+5. König und Bauer gegen König.
 
 Das Programm soll mit Hilfe der Bibliothek
 
