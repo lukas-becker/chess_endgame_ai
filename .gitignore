@@ -1,1 +1,5 @@
 /.idea/
+
+.ipynb_checkpoints/
+
+stockfish_14.1/
