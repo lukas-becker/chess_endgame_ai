@@ -1,189 +1,140 @@
-
-Comparing S_0...
+S_0:
 Stockfish war zu 0.0% besser
 Die KI war zu 0.0% besser
 Stockfish und die KI haben zu 100.0% die gleichen Ergebnisse erzielt
-Comparing S_1...
+S_1:
 Stockfish war zu 0.0% besser
 Die KI war zu 0.0% besser
 Stockfish und die KI haben zu 100.0% die gleichen Ergebnisse erzielt
-Comparing S_2...
+S_2:
 Stockfish war zu 0.0% besser
 Die KI war zu 0.0% besser
 Stockfish und die KI haben zu 100.0% die gleichen Ergebnisse erzielt
-Comparing S_3...
-Stockfish war zu 0.82% besser
+S_3:
+Stockfish war zu 0.0% besser
 Die KI war zu 0.0% besser
-Stockfish und die KI haben zu 99.18% die gleichen Ergebnisse erzielt
-Comparing S_4...
-Stockfish war zu 1.28% besser
+Stockfish und die KI haben zu 100.0% die gleichen Ergebnisse erzielt
+S_4:
+Stockfish war zu 0.0% besser
 Die KI war zu 0.0% besser
-Stockfish und die KI haben zu 98.72% die gleichen Ergebnisse erzielt
-Comparing S_5...
-Stockfish war zu 7.91% besser
-Die KI war zu 28.27% besser
-Stockfish und die KI haben zu 63.82% die gleichen Ergebnisse erzielt
-Comparing S_6...
-Stockfish war zu 33.82% besser
-Die KI war zu 26.47% besser
-Stockfish und die KI haben zu 39.71% die gleichen Ergebnisse erzielt
-Comparing S_7...
-Stockfish war zu 32.68% besser
-Die KI war zu 41.44% besser
-Stockfish und die KI haben zu 25.88% die gleichen Ergebnisse erzielt
-Comparing S_8...
-Stockfish war zu 60.72% besser
-Die KI war zu 18.52% besser
-Stockfish und die KI haben zu 20.75% die gleichen Ergebnisse erzielt
-Comparing S_9...
-Stockfish war zu 52.26% besser
-Die KI war zu 33.2% besser
-Stockfish und die KI haben zu 14.54% die gleichen Ergebnisse erzielt
-Comparing S_10...
-Stockfish war zu 67.53% besser
-Die KI war zu 21.29% besser
-Stockfish und die KI haben zu 11.18% die gleichen Ergebnisse erzielt
-Comparing S_11...
-Stockfish war zu 43.59% besser
-Die KI war zu 43.98% besser
-Stockfish und die KI haben zu 12.43% die gleichen Ergebnisse erzielt
-Comparing S_12...
-Stockfish war zu 59.84% besser
-Die KI war zu 35.57% besser
-Stockfish und die KI haben zu 4.58% die gleichen Ergebnisse erzielt
-Comparing S_13...
-Stockfish war zu 29.25% besser
-Die KI war zu 64.26% besser
-Stockfish und die KI haben zu 6.49% die gleichen Ergebnisse erzielt
-Comparing S_14...
-Stockfish war zu 43.56% besser
-Die KI war zu 51.69% besser
-Stockfish und die KI haben zu 4.75% die gleichen Ergebnisse erzielt
-Comparing S_15...
-Stockfish war zu 25.21% besser
-Die KI war zu 71.57% besser
-Stockfish und die KI haben zu 3.23% die gleichen Ergebnisse erzielt
-Comparing S_16...
-Stockfish war zu 43.87% besser
-Die KI war zu 53.98% besser
-Stockfish und die KI haben zu 2.16% die gleichen Ergebnisse erzielt
-Comparing S_17...
-Stockfish war zu 24.94% besser
-Die KI war zu 72.99% besser
-Stockfish und die KI haben zu 2.07% die gleichen Ergebnisse erzielt
-Comparing S_18...
-Stockfish war zu 31.48% besser
-Die KI war zu 65.28% besser
-Stockfish und die KI haben zu 3.24% die gleichen Ergebnisse erzielt
-Comparing S_19...
-Stockfish war zu 24.09% besser
-Die KI war zu 71.07% besser
-Stockfish und die KI haben zu 4.84% die gleichen Ergebnisse erzielt
-Comparing S_20...
-Stockfish war zu 29.61% besser
-Die KI war zu 64.79% besser
-Stockfish und die KI haben zu 5.6% die gleichen Ergebnisse erzielt
-Comparing S_21...
-Stockfish war zu 31.36% besser
-Die KI war zu 62.36% besser
-Stockfish und die KI haben zu 6.28% die gleichen Ergebnisse erzielt
-Comparing S_22...
-Stockfish war zu 33.54% besser
-Die KI war zu 58.53% besser
-Stockfish und die KI haben zu 7.94% die gleichen Ergebnisse erzielt
-Comparing S_23...
-Stockfish war zu 35.83% besser
-Die KI war zu 56.06% besser
-Stockfish und die KI haben zu 8.11% die gleichen Ergebnisse erzielt
-Comparing S_24...
-Stockfish war zu 38.36% besser
-Die KI war zu 52.25% besser
-Stockfish und die KI haben zu 9.39% die gleichen Ergebnisse erzielt
-Comparing S_25...
-Stockfish war zu 40.84% besser
-Die KI war zu 49.26% besser
-Stockfish und die KI haben zu 9.9% die gleichen Ergebnisse erzielt
-Comparing S_26...
-Stockfish war zu 49.19% besser
-Die KI war zu 41.39% besser
-Stockfish und die KI haben zu 9.41% die gleichen Ergebnisse erzielt
-Comparing S_27...
-Stockfish war zu 53.79% besser
-Die KI war zu 36.73% besser
-Stockfish und die KI haben zu 9.47% die gleichen Ergebnisse erzielt
-Comparing S_28...
-Stockfish war zu 59.77% besser
-Die KI war zu 32.88% besser
-Stockfish und die KI haben zu 7.36% die gleichen Ergebnisse erzielt
-Comparing S_29...
-Stockfish war zu 63.1% besser
-Die KI war zu 30.21% besser
-Stockfish und die KI haben zu 6.69% die gleichen Ergebnisse erzielt
-Comparing S_30...
-Stockfish war zu 65.57% besser
-Die KI war zu 28.12% besser
-Stockfish und die KI haben zu 6.31% die gleichen Ergebnisse erzielt
-Comparing S_31...
-Stockfish war zu 72.91% besser
-Die KI war zu 22.54% besser
-Stockfish und die KI haben zu 4.54% die gleichen Ergebnisse erzielt
-Comparing S_32...
-Stockfish war zu 75.58% besser
-Die KI war zu 20.59% besser
-Stockfish und die KI haben zu 3.83% die gleichen Ergebnisse erzielt
-Comparing S_33...
-Stockfish war zu 80.84% besser
-Die KI war zu 17.03% besser
-Stockfish und die KI haben zu 2.12% die gleichen Ergebnisse erzielt
-Comparing S_34...
-Stockfish war zu 81.09% besser
-Die KI war zu 16.42% besser
-Stockfish und die KI haben zu 2.48% die gleichen Ergebnisse erzielt
-Comparing S_35...
-Stockfish war zu 83.72% besser
-Die KI war zu 13.77% besser
-Stockfish und die KI haben zu 2.51% die gleichen Ergebnisse erzielt
-Comparing S_36...
-Stockfish war zu 85.62% besser
-Die KI war zu 12.84% besser
-Stockfish und die KI haben zu 1.54% die gleichen Ergebnisse erzielt
-Comparing S_37...
-Stockfish war zu 86.29% besser
-Die KI war zu 12.66% besser
-Stockfish und die KI haben zu 1.04% die gleichen Ergebnisse erzielt
-Comparing S_38...
-Stockfish war zu 85.85% besser
-Die KI war zu 13.08% besser
-Stockfish und die KI haben zu 1.07% die gleichen Ergebnisse erzielt
-Comparing S_39...
-Stockfish war zu 86.31% besser
-Die KI war zu 13.07% besser
-Stockfish und die KI haben zu 0.62% die gleichen Ergebnisse erzielt
-Comparing S_40...
-Stockfish war zu 84.75% besser
-Die KI war zu 14.79% besser
-Stockfish und die KI haben zu 0.46% die gleichen Ergebnisse erzielt
-Comparing S_41...
-Stockfish war zu 84.1% besser
-Die KI war zu 14.55% besser
-Stockfish und die KI haben zu 1.35% die gleichen Ergebnisse erzielt
-Comparing S_42...
-Stockfish war zu 84.39% besser
-Die KI war zu 14.09% besser
-Stockfish und die KI haben zu 1.52% die gleichen Ergebnisse erzielt
-Comparing S_43...
-Stockfish war zu 85.06% besser
-Die KI war zu 13.02% besser
-Stockfish und die KI haben zu 1.92% die gleichen Ergebnisse erzielt
-Comparing S_44...
-Stockfish war zu 87.42% besser
-Die KI war zu 10.58% besser
-Stockfish und die KI haben zu 2.0% die gleichen Ergebnisse erzielt
-Comparing S_45...
-Stockfish war zu 89.85% besser
-Die KI war zu 9.0% besser
-Stockfish und die KI haben zu 1.15% die gleichen Ergebnisse erzielt
-Comparing S_46...
-Stockfish war zu 89.75% besser
-Die KI war zu 8.12% besser
-Stockfish und die KI haben zu 2.13% die gleichen Ergebnisse erzielt
+Stockfish und die KI haben zu 100.0% die gleichen Ergebnisse erzielt
+S_5:
+Stockfish war zu 0.0% besser
+Die KI war zu 26.97% besser
+Stockfish und die KI haben zu 73.03% die gleichen Ergebnisse erzielt
+S_6:
+Stockfish war zu 0.0% besser
+Die KI war zu 29.79% besser
+Stockfish und die KI haben zu 70.21% die gleichen Ergebnisse erzielt
+S_7:
+Stockfish war zu 3.21% besser
+Die KI war zu 49.63% besser
+Stockfish und die KI haben zu 47.16% die gleichen Ergebnisse erzielt
+S_8:
+Stockfish war zu 0.55% besser
+Die KI war zu 29.49% besser
+Stockfish und die KI haben zu 69.96% die gleichen Ergebnisse erzielt
+S_9:
+Stockfish war zu 10.49% besser
+Die KI war zu 39.7% besser
+Stockfish und die KI haben zu 49.8% die gleichen Ergebnisse erzielt
+S_10:
+Stockfish war zu 3.74% besser
+Die KI war zu 37.61% besser
+Stockfish und die KI haben zu 58.65% die gleichen Ergebnisse erzielt
+S_11:
+Stockfish war zu 13.9% besser
+Die KI war zu 53.94% besser
+Stockfish und die KI haben zu 32.16% die gleichen Ergebnisse erzielt
+S_12:
+Stockfish war zu 8.21% besser
+Die KI war zu 51.45% besser
+Stockfish und die KI haben zu 40.34% die gleichen Ergebnisse erzielt
+S_13:
+Stockfish war zu 14.05% besser
+Die KI war zu 73.67% besser
+Stockfish und die KI haben zu 12.28% die gleichen Ergebnisse erzielt
+S_14:
+Stockfish war zu 7.11% besser
+Die KI war zu 71.67% besser
+Stockfish und die KI haben zu 21.23% die gleichen Ergebnisse erzielt
+S_15:
+Stockfish war zu 14.92% besser
+Die KI war zu 75.76% besser
+Stockfish und die KI haben zu 9.32% die gleichen Ergebnisse erzielt
+S_16:
+Stockfish war zu 10.95% besser
+Die KI war zu 67.25% besser
+Stockfish und die KI haben zu 21.8% die gleichen Ergebnisse erzielt
+S_17:
+Stockfish war zu 9.87% besser
+Die KI war zu 83.19% besser
+Stockfish und die KI haben zu 6.94% die gleichen Ergebnisse erzielt
+S_18:
+Stockfish war zu 10.86% besser
+Die KI war zu 78.55% besser
+Stockfish und die KI haben zu 10.59% die gleichen Ergebnisse erzielt
+S_19:
+Stockfish war zu 10.48% besser
+Die KI war zu 84.38% besser
+Stockfish und die KI haben zu 5.14% die gleichen Ergebnisse erzielt
+S_20:
+Stockfish war zu 11.28% besser
+Die KI war zu 77.62% besser
+Stockfish und die KI haben zu 11.1% die gleichen Ergebnisse erzielt
+S_21:
+Stockfish war zu 12.69% besser
+Die KI war zu 79.55% besser
+Stockfish und die KI haben zu 7.76% die gleichen Ergebnisse erzielt
+S_22:
+Stockfish war zu 18.16% besser
+Die KI war zu 74.28% besser
+Stockfish und die KI haben zu 7.56% die gleichen Ergebnisse erzielt
+S_23:
+Stockfish war zu 9.8% besser
+Die KI war zu 85.5% besser
+Stockfish und die KI haben zu 4.7% die gleichen Ergebnisse erzielt
+S_24:
+Stockfish war zu 14.14% besser
+Die KI war zu 79.76% besser
+Stockfish und die KI haben zu 6.1% die gleichen Ergebnisse erzielt
+S_25:
+Stockfish war zu 11.47% besser
+Die KI war zu 82.98% besser
+Stockfish und die KI haben zu 5.56% die gleichen Ergebnisse erzielt
+S_26:
+Stockfish war zu 12.81% besser
+Die KI war zu 82.08% besser
+Stockfish und die KI haben zu 5.11% die gleichen Ergebnisse erzielt
+S_27:
+Stockfish war zu 13.31% besser
+Die KI war zu 80.81% besser
+Stockfish und die KI haben zu 5.88% die gleichen Ergebnisse erzielt
+S_28:
+Stockfish war zu 14.16% besser
+Die KI war zu 80.16% besser
+Stockfish und die KI haben zu 5.68% die gleichen Ergebnisse erzielt
+S_29:
+Stockfish war zu 14.45% besser
+Die KI war zu 80.23% besser
+Stockfish und die KI haben zu 5.31% die gleichen Ergebnisse erzielt
+S_30:
+Stockfish war zu 16.21% besser
+Die KI war zu 78.43% besser
+Stockfish und die KI haben zu 5.36% die gleichen Ergebnisse erzielt
+S_31:
+Stockfish war zu 19.8% besser
+Die KI war zu 74.98% besser
+Stockfish und die KI haben zu 5.22% die gleichen Ergebnisse erzielt
+S_32:
+Stockfish war zu 20.76% besser
+Die KI war zu 74.23% besser
+Stockfish und die KI haben zu 5.01% die gleichen Ergebnisse erzielt
+S_33:
+Stockfish war zu 21.68% besser
+Die KI war zu 72.55% besser
+Stockfish und die KI haben zu 5.77% die gleichen Ergebnisse erzielt
+S_34:
+Stockfish war zu 30.08% besser
+Die KI war zu 63.06% besser
+Stockfish und die KI haben zu 6.86% die gleichen Ergebnisse erzielt
