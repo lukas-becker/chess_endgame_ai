@@ -1,0 +1,2 @@
+*.chessAI filter=lfs diff=lfs merge=lfs -text
+*.preConvert filter=lfs diff=lfs merge=lfs -text
