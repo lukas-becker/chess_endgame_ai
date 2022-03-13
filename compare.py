@@ -69,7 +69,7 @@ for n in range(len(s_n_original)):
 syzygy = chess.syzygy.Tablebase()
 syzygy.add_directory("C:\\Users\\Lukas\\Studium\\5. Semester\\Studienarbeit\\syzgy")
 
-s_n_fens, s_n_fens_short = load_s_n_fens("S_n_seq_queen") #_12_03")
+s_n_fens, s_n_fens_short = load_s_n_fens("S_n_seq_queen_mirror_and_rotate") #_12_03")
 
 for n in range(len(s_n_fens)):
     counter = 0
@@ -77,10 +77,13 @@ for n in range(len(s_n_fens)):
     for fen in s_n_fens[n]:
         chess_board = chess.Board(fen)
         if n != abs(syzygy.probe_dtz(chess_board)) != n + 1:
-            #print(f"Board in wrong S_n ({n}) - Syzygy says {abs(syzygy.probe_dtz(chess_board))}")
+            counter += 1
+    print(f"S{n} contains {len(s_n_fens[n])} Boards. Syzygy believed {counter} were wrong")
+
+
+
+#print(f"Board in wrong S_n ({n}) - Syzygy says {abs(syzygy.probe_dtz(chess_board))}")
             #print(chess_board)
             #print(chess_board.fen())
             #print((False, chess_board.__str__()) in s_n_new[0])
             #break
-            counter += 1
-    print(f"S{n} contains {len(s_n_fens[n])} Boards. Syzygy believed {counter} were wrong")
