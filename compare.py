@@ -48,13 +48,13 @@ for n in range(len(s_n)):
 '''
 
 s_n_original = load_s_n_sequence("S_n_seq_queen")
-s_n_new = load_s_n_sequence("S_n_seq_queen_12_03")
+s_n_new = load_s_n_sequence("S_n_seq_pawn_12_03")
 
 if len(s_n_original) != len(s_n_new):
     print("Different Lengths")
     print(10* '*')
 
-for n in range(len(s_n_original)):
+for n in range(min(len(s_n_original), len(s_n_new))):
     if s_n_original[n] == s_n_new[n]:
         print(f"S{n}: Same")
     else:
@@ -69,7 +69,7 @@ for n in range(len(s_n_original)):
 syzygy = chess.syzygy.Tablebase()
 syzygy.add_directory("C:\\Users\\Lukas\\Studium\\5. Semester\\Studienarbeit\\syzgy")
 
-s_n_fens, s_n_fens_short = load_s_n_fens("S_n_seq_queen_mirror_and_rotate") #_12_03")
+s_n_fens, s_n_fens_short = load_s_n_fens("S_n_seq_pawn") #_12_03")
 
 for n in range(len(s_n_fens)):
     counter = 0
