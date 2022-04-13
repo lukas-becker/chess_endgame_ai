@@ -9,27 +9,27 @@
 \contentsline {subsection}{\numberline {3.2}Ein Hinweis zur effizienten Ergebnisverwaltung}{11}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Funktionen zur Bestimmung aller gültigen Positionen}{12}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Die Ursprungsmenge \(S_0\) erstellen}{14}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Rückwärts neue Situationen bestimmen}{16}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Hilfsfunktionen für die Berechnung}{19}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Export in Datei}{27}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Konfigurations Variablen}{31}{subsection.3.8}%
-\contentsline {subsection}{\numberline {3.9}Start der Rechnung}{32}{subsection.3.9}%
-\contentsline {section}{\numberline {4}Spielen gegen die KI}{32}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Vom Nutzer zu tätigende Einstellungen}{32}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Logik für die Interaktion mit der Spielsituation}{33}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Import der Daten}{35}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Den besten Zug für die KI ermitteln}{36}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Globale Variablen für die Anzeige}{37}{subsection.4.5}%
-\contentsline {subsection}{\numberline {4.6}Globale Variablen für den aktuellen Spielzustand}{37}{subsection.4.6}%
-\contentsline {subsection}{\numberline {4.7}Weitere Hilfsfunktionen}{39}{subsection.4.7}%
-\contentsline {section}{\numberline {5}Wiedergeben einer bereits gespielten Partie}{44}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Importieren des Spielverlaufs}{44}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Auslesen der Startposition und Züge}{44}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Spiel wiederholen}{45}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Auswerten eines Schach-Endspiels}{46}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Konfiguration}{46}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Vergleich zwischen Stockfish und KI}{47}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Berechnung der Zuglisten}{47}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}Hilfsfunktionen für den Vergleich}{50}{subsubsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.3}Implementierung der Testszenarien}{52}{subsubsection.6.2.3}%
-\contentsline {section}{\numberline {7}Überprüfen der \(S_n\) Mengen}{56}{section.7}%
+\contentsline {subsection}{\numberline {3.5}Rückwärts neue Situationen bestimmen}{15}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Hilfsfunktionen für die Berechnung}{18}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Export in Datei}{26}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Konfigurations Variablen}{30}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Start der Rechnung}{30}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Spielen gegen die KI}{31}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Vom Nutzer zu tätigende Einstellungen}{31}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Logik für die Interaktion mit der Spielsituation}{31}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Import der Daten}{34}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Den besten Zug für die KI ermitteln}{34}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Globale Variablen für die Anzeige}{35}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Globale Variablen für den aktuellen Spielzustand}{36}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Weitere Hilfsfunktionen}{37}{subsection.4.7}%
+\contentsline {section}{\numberline {5}Wiedergeben einer bereits gespielten Partie}{42}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Importieren des Spielverlaufs}{42}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Auslesen der Startposition und Züge}{42}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Spiel wiederholen}{43}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Auswerten eines Schach-Endspiels}{44}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Konfiguration}{44}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Vergleich zwischen Stockfish und KI}{45}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Berechnung der Zuglisten}{45}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Hilfsfunktionen für den Vergleich}{48}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Implementierung der Testszenarien}{50}{subsubsection.6.2.3}%
+\contentsline {section}{\numberline {7}Überprüfen der \(S_n\) Mengen}{54}{section.7}%
