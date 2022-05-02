@@ -21,6 +21,7 @@
   - [ ] Theorie hinter Konzepten innerhalb der Notebooks erläutern (Bsp. die Spiegelungen)
   - [ ] Reihenfolge des Leseflusses von Stroetmann beachten (beginnt mit Util!) 
   - -> Dementsprechend Kommentare auch schreiben
+  - [ ] Parameter und Rückgabewert mit Datentyp angeben (wäre doch noch cleaner)
 - [ ] Funktionalitäten, die ergänzt werden sollen:
   - [ ] Sofern eine andere KI besser ist als unsere DB, das Brett + Spielverlauf ausgeben
   - [ ] Überlegung, ob noch folgendes Spielszenario ergänzt werden sollte: König + Bauer vs König + Königin
