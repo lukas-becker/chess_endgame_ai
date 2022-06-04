@@ -5,15 +5,17 @@ sogenannten Rückwärtsanalyse eine optimale Strategie zu berechnen.
 
 ## Ordnerstruktur
 
-| Name         | Beschreibung                                                                              |
-|--------------|-------------------------------------------------------------------------------------------|
-| gaviota      | Die heruntergeladenen Gaviota-Tabellen für den Vergleich.                                 |
-| Images       | Der Ordner, in dem die Stockfish-Installation liegt.                                      |
-| Played_Games | Alle Spiele mit deren Spielzüge, die gegen die KI bisher gespielt worden sind             |
-| S_n_Results  | Die $S_n$ Mengen lokal in Dateien für die unterschiedlichen Spielsituationen gespeichert. |
-| stockfish    | Der Ordner, in dem die Stockfish-Installation liegt.                                      |
-| syzygy       | Die heruntergeladenen Syzygy-Tabellen für den Vergleich.                                  |
-| Tests        | Alle Tests, die bisher unter Verwendung der Stockfish-Engine durchgeführt worden sind.    |
+| Name          | Beschreibung                                                                              |
+|---------------|-------------------------------------------------------------------------------------------|
+| gaviota       | Die heruntergeladenen Gaviota-Tabellen für den Vergleich.                                 |
+| Images        | Der Ordner, in dem die Stockfish-Installation liegt.                                      |
+| Played_Games* | Alle Spiele mit deren Spielzüge, die gegen die KI bisher gespielt worden sind             |
+| S_n_Results*  | Die $S_n$ Mengen lokal in Dateien für die unterschiedlichen Spielsituationen gespeichert. |
+| stockfish     | Der Ordner, in dem die Stockfish-Installation liegt.                                      |
+| syzygy        | Die heruntergeladenen Syzygy-Tabellen für den Vergleich.                                  |
+| Tests*        | Alle Tests, die bisher unter Verwendung der Stockfish-Engine durchgeführt worden sind.    |
+
+\* Diese Ordner müssen gegebenenfalls noch von dem Anwender erstellt werden.
 
 ## Aufgabenstellung
 
@@ -61,7 +63,7 @@ Gleichermaßen können auch die syzygy-Tabellen für eine weitere Vergleichsmeth
 
 #### Alternative
 
-Unter diesem [Link]() werden alle notwendigen Endspieltabellen und Engines für die Nutzung dieses Repositories bereitgestellt.
+Unter diesem [Link](https://drive.google.com/file/d/1AwMUGTEsFGLw5NCMUP9eLcU7BZlbnhql/view?usp=drivesdk) werden alle notwendigen Endspieltabellen und Engines für die Nutzung dieses Repositories bereitgestellt.
 
 ### Ausführen der Notebooks
 
