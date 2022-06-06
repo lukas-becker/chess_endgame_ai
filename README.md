@@ -8,7 +8,7 @@ sogenannten Rückwärtsanalyse eine optimale Strategie zu berechnen.
 | Name          | Beschreibung                                                                              |
 |---------------|-------------------------------------------------------------------------------------------|
 | gaviota       | Die heruntergeladenen Gaviota-Tabellen für den Vergleich.                                 |
-| Images        | Der Ordner, in dem die Stockfish-Installation liegt.                                      |
+| Images        | Der Ordner, in dem alle verwendeten Abbildungen gefunden werden können.                   |
 | Played_Games* | Alle Spiele mit deren Spielzüge, die gegen die KI bisher gespielt worden sind             |
 | S_n_Results*  | Die $S_n$ Mengen lokal in Dateien für die unterschiedlichen Spielsituationen gespeichert. |
 | stockfish     | Der Ordner, in dem die Stockfish-Installation liegt.                                      |
